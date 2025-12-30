@@ -1,11 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="mmWave Insight Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
 # mmWave Insight
 
 **基于毫米波雷达的实时活动识别与可视化平台**
-
-[在线演示](https://ai.studio/apps/drive/1QHJP9f-96GECMYbRweSri70r1jLsfHjs) | [报告问题](https://github.com/user-attachments/issues)
 
 </div>
 
@@ -42,7 +37,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone https://github.com/<您的用户名>/mmwave-insight.git
+    git clone https://github.com/LIANGSUAI/mmwave-insight.git
     cd mmwave-insight
     ```
 
